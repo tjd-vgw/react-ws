@@ -19,6 +19,10 @@ https://docs.google.com/presentation/d/1inQ9Xr1JY2u5qFx5efl8OwaVcsWLbR3Y8oib28fG
 
 In the project directory, you can run:
 
+### `npm i`
+
+Followed by
+
 ### `npm start`
 
 Runs the app in the development mode.\

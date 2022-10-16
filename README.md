@@ -3,6 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 The source code has been tweaked to reflect the workshop content.
 
+## Workshop slide deck link
+Just for visibility, and coming back to later.
+https://docs.google.com/presentation/d/1inQ9Xr1JY2u5qFx5efl8OwaVcsWLbR3Y8oib28fGvyk/edit?usp=sharing
+
 ## React Exercises
 
 1. [imports/exports, the first and only one on the page](https://beta.reactjs.org/learn/importing-and-exporting-components)

@@ -1,0 +1,39 @@
+.category-container {
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.category-header {
+    color: white;
+}
+
+.container {
+    text-align: left;
+}
+
+.main-grid {
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    height: 100%;
+    max-width: 880px;
+}
+
+.category-container:last-child {
+    flex: 1 0 auto;
+    margin-bottom: 0;
+}
+
+.invisible-product-container {
+    height: 0;
+}
+
+@media only screen and (max-width: 768px){
+    .category-container {
+        padding: 12px 10px;
+    }
+
+    .container {
+        text-align: center;
+    }
+}

@@ -27,7 +27,7 @@ export const PlayerApi = new class {
         return this.mockBuyProduct().then(onSuccess)
     }
     private async mockFetchProducts(): Promise<ProductList> {
-        return new Promise((res, rej) => setTimeout(() => res(MOCK_DATA), 1000));
+        return new Promise((res, rej) => setTimeout(() => res(MOCK_DATA), 2000));
     }
     private async mockBuyProduct(): Promise<BuyProductResponse> {
         return new Promise((res, rej) => setTimeout(() => res({ status: "OK" }), 1000));

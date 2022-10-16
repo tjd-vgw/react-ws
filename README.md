@@ -5,10 +5,10 @@ The source code has been tweaked to reflect the workshop content.
 
 ## React Exercises
 
-1. https://beta.reactjs.org/learn/importing-and-exporting-components
-2. https://beta.reactjs.org/learn/passing-props-to-a-component
-3. https://beta.reactjs.org/learn/responding-to-events
-4. https://beta.reactjs.org/learn/queueing-a-series-of-state-updates
+1. [imports/exports, the first and only one on the page](https://beta.reactjs.org/learn/importing-and-exporting-components)
+2. [the children attribute. challenge #3](https://beta.reactjs.org/learn/passing-props-to-a-component)
+3. [stopping event propagation, challenge #2](https://beta.reactjs.org/learn/responding-to-events)
+4. [state updater functions, challenge #1](https://beta.reactjs.org/learn/queueing-a-series-of-state-updates)
 
 ## Available Scripts
 

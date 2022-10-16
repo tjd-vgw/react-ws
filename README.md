@@ -13,6 +13,7 @@ https://docs.google.com/presentation/d/1inQ9Xr1JY2u5qFx5efl8OwaVcsWLbR3Y8oib28fG
 2. [the children attribute. challenge #3](https://beta.reactjs.org/learn/passing-props-to-a-component)
 3. [stopping event propagation, challenge #2](https://beta.reactjs.org/learn/responding-to-events)
 4. [state updater functions, challenge #1](https://beta.reactjs.org/learn/queueing-a-series-of-state-updates)
+5. [use useEffect (effectively? at all?), challenge #1](https://beta.reactjs.org/learn/you-might-not-need-an-effect)
 
 ## Available Scripts
 
